@@ -1,0 +1,21 @@
+.addDataForm {                                   /*css reference from https://devdocs.io/css/ */
+  background-color: #ede3e3c0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  
+}
+  
+.addDataForm h2 {
+  margin-bottom: 20px;
+}
+
+.addDataForm button[type="submit"] {
+  margin-top: 10px;
+}
+  

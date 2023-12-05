@@ -1,0 +1,34 @@
+
+[
+    {
+      "registration": "1ABC123",
+      "departureDateTime": "2023-06-06T11:05:00.000Z",
+      "arrivalDateTime": "2023-06-10T13:30:00.000Z",
+      "bay": 10
+    },
+    {
+      "registration": "2KHN569",
+      "departureDateTime": "2023-06-02T13:05:00.000Z",
+      "arrivalDateTime": "2023-06-12T12:30:00.000Z",
+      "bay": 6
+    },
+    {
+      "registration": "9HJG839",
+      "departureDateTime": "2023-05-02T07:30:00.000Z",
+      "arrivalDateTime": "2023-05-15T22:00:00.000Z",
+      "bay": 5
+    },
+    {
+      "registration": "6BFG543",
+      "departureDateTime": "2023-04-22T14:20:00.000Z",
+      "arrivalDateTime": "2023-04-28T15:30:00.000Z",
+      "bay": 7
+    },
+    {
+      "registration": "3DWR954",
+      "departureDateTime": "2023-03-13T15:40:00.000Z",
+      "arrivalDateTime": "2023-03-15T08:08:00.000Z",
+      "bay": 2
+    }
+  ]
+  

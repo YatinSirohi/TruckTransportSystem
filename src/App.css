@@ -1,0 +1,16 @@
+.App {
+  flex: flex;
+}
+
+.DataList {                            /*css reference from https://devdocs.io/css/ */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+
+}
